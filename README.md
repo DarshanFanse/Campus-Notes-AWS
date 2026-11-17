@@ -50,7 +50,6 @@ campus-notes-aws/
 │   └── script.js
 ├── sample-notes/
 ├── screenshots/
-├── docs/
 ├── README.md
 └── .gitignore
 ```
